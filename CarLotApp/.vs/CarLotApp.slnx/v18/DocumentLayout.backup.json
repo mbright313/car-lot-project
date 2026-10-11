@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SchoolWork\\App Dev\\MatthewBrightP1\\car-lot-project\\CarLotApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17A81F21-A98F-47E5-8A30-23CA91A27F42}|CarLotApp\\CarLotApp.csproj|d:\\schoolwork\\app dev\\matthewbrightp1\\car-lot-project\\carlotapp\\carlotapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17A81F21-A98F-47E5-8A30-23CA91A27F42}|CarLotApp\\CarLotApp.csproj|solutionrelative:carlotapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 58,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\SchoolWork\\App Dev\\MatthewBrightP1\\car-lot-project\\CarLotApp\\CarLotApp\\Form1.cs",
+              "RelativeDocumentMoniker": "CarLotApp\\Form1.cs",
+              "ToolTip": "D:\\SchoolWork\\App Dev\\MatthewBrightP1\\car-lot-project\\CarLotApp\\CarLotApp\\Form1.cs [Design]",
+              "RelativeToolTip": "CarLotApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T19:31:52.009Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
