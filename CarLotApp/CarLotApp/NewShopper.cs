@@ -15,6 +15,11 @@ namespace CarLotApp
             InitializeComponent();
         }
 
+        /// <summary>
+        /// sets new shopper name and money
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void newShopperOkBtn_Click(object sender, EventArgs e)
         {
             if(decimal.TryParse(moneyText.Text, out decimal money))
@@ -24,6 +29,7 @@ namespace CarLotApp
                 {
                     parentform.shopperName.Text = nameText.Text + ": ";
                     parentform.shopperMoney.Text = "$" + moneyText.Text;
+                    parentform.newShopper(shopper);
                     parentform.Refresh();
                 }
                 Close();

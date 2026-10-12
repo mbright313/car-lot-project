@@ -11,13 +11,16 @@ namespace CarLotApp
 {
     public partial class AddCarForm : Form
     {
-        List<Car> lotInv;
         public AddCarForm(List<Car> inv)
         {
-            lotInv = new List<Car>(inv);
             InitializeComponent();
         }
 
+        /// <summary>
+        /// Adds new car to listbox
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void addCarOKBtn_Click(object sender, EventArgs e)
         {
             if(double.TryParse(mpgBox.Text, out double mpg) && decimal.TryParse(priceBox.Text, out decimal price))

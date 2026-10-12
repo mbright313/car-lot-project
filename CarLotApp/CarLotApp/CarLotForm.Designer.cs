@@ -35,6 +35,8 @@
             createShopperbtn = new Button();
             shopperMoney = new Label();
             shopperName = new Label();
+            purchaseBtn = new Button();
+            invBtn = new Button();
             SuspendLayout();
             // 
             // label1
@@ -66,7 +68,7 @@
             // 
             // addCarbtn
             // 
-            addCarbtn.Location = new Point(344, 60);
+            addCarbtn.Location = new Point(355, 60);
             addCarbtn.Name = "addCarbtn";
             addCarbtn.Size = new Size(75, 23);
             addCarbtn.TabIndex = 3;
@@ -76,7 +78,7 @@
             // 
             // createShopperbtn
             // 
-            createShopperbtn.Location = new Point(448, 60);
+            createShopperbtn.Location = new Point(462, 60);
             createShopperbtn.Name = "createShopperbtn";
             createShopperbtn.Size = new Size(75, 23);
             createShopperbtn.TabIndex = 4;
@@ -87,27 +89,50 @@
             // shopperMoney
             // 
             shopperMoney.AutoSize = true;
-            shopperMoney.Location = new Point(639, 27);
+            shopperMoney.Location = new Point(628, 27);
             shopperMoney.Name = "shopperMoney";
             shopperMoney.Size = new Size(34, 15);
             shopperMoney.TabIndex = 5;
             shopperMoney.Text = "$0.00";
+            shopperMoney.TextAlign = ContentAlignment.MiddleLeft;
             // 
             // shopperName
             // 
             shopperName.AutoSize = true;
-            shopperName.Location = new Point(544, 27);
+            shopperName.Location = new Point(533, 27);
             shopperName.Name = "shopperName";
             shopperName.Size = new Size(89, 15);
             shopperName.TabIndex = 6;
             shopperName.Text = "Shopper Name:";
             shopperName.TextAlign = ContentAlignment.MiddleRight;
             // 
+            // purchaseBtn
+            // 
+            purchaseBtn.Location = new Point(569, 60);
+            purchaseBtn.Name = "purchaseBtn";
+            purchaseBtn.Size = new Size(75, 23);
+            purchaseBtn.TabIndex = 7;
+            purchaseBtn.Text = "Purchase Car";
+            purchaseBtn.UseVisualStyleBackColor = true;
+            purchaseBtn.Click += purchaseBtn_Click;
+            // 
+            // invBtn
+            // 
+            invBtn.Location = new Point(462, 112);
+            invBtn.Name = "invBtn";
+            invBtn.Size = new Size(75, 23);
+            invBtn.TabIndex = 8;
+            invBtn.Text = "Details";
+            invBtn.UseVisualStyleBackColor = true;
+            invBtn.Click += invBtn_Click;
+            // 
             // CarLotForm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(699, 372);
+            Controls.Add(invBtn);
+            Controls.Add(purchaseBtn);
             Controls.Add(shopperName);
             Controls.Add(shopperMoney);
             Controls.Add(createShopperbtn);
@@ -130,5 +155,7 @@
         private Button createShopperbtn;
         public Label shopperMoney;
         public Label shopperName;
+        private Button purchaseBtn;
+        private Button invBtn;
     }
 }

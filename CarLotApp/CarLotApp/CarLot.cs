@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Security.Cryptography.X509Certificates;
 using System.Text;
 
@@ -7,8 +8,14 @@ namespace CarLotApp
 {
     internal class CarLot
     {
+        /// <summary>
+        /// Inventory of cars in carlot
+        /// </summary>
         private List<Car> inventory;
 
+        /// <summary>
+        /// tax rate to calculate total cost
+        /// </summary>
         public const decimal TAX_RATE = 0.078m;
 
         /// <summary>
@@ -62,7 +69,9 @@ namespace CarLotApp
             foreach (Car car in inventory)
             {
                 string carmake = car.make.ToLower();
+                Debug.WriteLine(carmake + " " + car.make.ToLower());
                 string carmodel = car.model.ToLower();
+                Debug.WriteLine(carmodel + " " + car.model.ToLower());
                 if (carmake.Equals(findMake.ToLower()) && carmodel.Equals(findModel.ToLower()))
                 {
                     return car;

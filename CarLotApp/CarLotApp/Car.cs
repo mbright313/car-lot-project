@@ -48,7 +48,7 @@ namespace CarLotApp
         /// <returns></returns>
         public string toString()
         {
-            string carInfo = make + " " + model + " | " + mpg + " | $" + price;
+            string carInfo = make + " " + model + " | " + mpg + "mpg | $" + price;
             Debug.WriteLine(carInfo);
             return carInfo;
         }

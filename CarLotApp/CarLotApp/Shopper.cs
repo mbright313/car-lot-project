@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CarLotApp
 {
-    internal class Shopper
+    public class Shopper
     {
         /// <summary>
         /// name of shopper
