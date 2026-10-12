@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "D:\\SchoolWork\\App Dev\\MatthewBrightP1\\car-lot-project\\CarLotApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{70BA985B-7E83-2905-6E63-535F1FD7D207}|CarLotApp\\CarLotApp.csproj|d:\\schoolwork\\app dev\\matthewbrightp1\\car-lot-project\\carlotapp\\carlotapp\\carlotform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70BA985B-7E83-2905-6E63-535F1FD7D207}|CarLotApp\\CarLotApp.csproj|solutionrelative:carlotapp\\carlotform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70BA985B-7E83-2905-6E63-535F1FD7D207}|CarLotApp\\CarLotApp.csproj|D:\\SchoolWork\\App Dev\\MatthewBrightP1\\car-lot-project\\CarLotApp\\carlotapp\\carlotform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{70BA985B-7E83-2905-6E63-535F1FD7D207}|CarLotApp\\CarLotApp.csproj|solutionrelative:carlotapp\\carlotform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70BA985B-7E83-2905-6E63-535F1FD7D207}|CarLotApp\\CarLotApp.csproj|d:\\schoolwork\\app dev\\matthewbrightp1\\car-lot-project\\carlotapp\\carlotapp\\addcarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70BA985B-7E83-2905-6E63-535F1FD7D207}|CarLotApp\\CarLotApp.csproj|solutionrelative:carlotapp\\addcarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70BA985B-7E83-2905-6E63-535F1FD7D207}|CarLotApp\\CarLotApp.csproj|d:\\schoolwork\\app dev\\matthewbrightp1\\car-lot-project\\carlotapp\\carlotapp\\addcarform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70BA985B-7E83-2905-6E63-535F1FD7D207}|CarLotApp\\CarLotApp.csproj|solutionrelative:carlotapp\\addcarform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70BA985B-7E83-2905-6E63-535F1FD7D207}|CarLotApp\\CarLotApp.csproj|d:\\schoolwork\\app dev\\matthewbrightp1\\car-lot-project\\carlotapp\\carlotapp\\addcarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{70BA985B-7E83-2905-6E63-535F1FD7D207}|CarLotApp\\CarLotApp.csproj|solutionrelative:carlotapp\\addcarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70BA985B-7E83-2905-6E63-535F1FD7D207}|CarLotApp\\CarLotApp.csproj|d:\\schoolwork\\app dev\\matthewbrightp1\\car-lot-project\\carlotapp\\carlotapp\\newshopper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{70BA985B-7E83-2905-6E63-535F1FD7D207}|CarLotApp\\CarLotApp.csproj|solutionrelative:carlotapp\\newshopper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70BA985B-7E83-2905-6E63-535F1FD7D207}|CarLotApp\\CarLotApp.csproj|d:\\schoolwork\\app dev\\matthewbrightp1\\car-lot-project\\carlotapp\\carlotapp\\newshopper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70BA985B-7E83-2905-6E63-535F1FD7D207}|CarLotApp\\CarLotApp.csproj|solutionrelative:carlotapp\\newshopper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{70BA985B-7E83-2905-6E63-535F1FD7D207}|CarLotApp\\CarLotApp.csproj|d:\\schoolwork\\app dev\\matthewbrightp1\\car-lot-project\\carlotapp\\carlotapp\\carlot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70BA985B-7E83-2905-6E63-535F1FD7D207}|CarLotApp\\CarLotApp.csproj|solutionrelative:carlotapp\\carlot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70BA985B-7E83-2905-6E63-535F1FD7D207}|CarLotApp\\CarLotApp.csproj|d:\\schoolwork\\app dev\\matthewbrightp1\\car-lot-project\\carlotapp\\carlotapp\\shopper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70BA985B-7E83-2905-6E63-535F1FD7D207}|CarLotApp\\CarLotApp.csproj|solutionrelative:carlotapp\\shopper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{70BA985B-7E83-2905-6E63-535F1FD7D207}|CarLotApp\\CarLotApp.csproj|d:\\schoolwork\\app dev\\matthewbrightp1\\car-lot-project\\carlotapp\\carlotapp\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70BA985B-7E83-2905-6E63-535F1FD7D207}|CarLotApp\\CarLotApp.csproj|solutionrelative:carlotapp\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70BA985B-7E83-2905-6E63-535F1FD7D207}|CarLotApp\\CarLotApp.csproj|d:\\schoolwork\\app dev\\matthewbrightp1\\car-lot-project\\carlotapp\\carlotapp\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70BA985B-7E83-2905-6E63-535F1FD7D207}|CarLotApp\\CarLotApp.csproj|solutionrelative:carlotapp\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70BA985B-7E83-2905-6E63-535F1FD7D207}|CarLotApp\\CarLotApp.csproj|d:\\schoolwork\\app dev\\matthewbrightp1\\car-lot-project\\carlotapp\\carlotapp\\carlotapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{70BA985B-7E83-2905-6E63-535F1FD7D207}|CarLotApp\\CarLotApp.csproj|solutionrelative:carlotapp\\carlotapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,73 +46,124 @@
       "DocumentGroups": [
         {
           "DockedWidth": 58,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Car.cs",
-              "DocumentMoniker": "D:\\SchoolWork\\App Dev\\MatthewBrightP1\\car-lot-project\\CarLotApp\\CarLotApp\\Car.cs",
-              "RelativeDocumentMoniker": "CarLotApp\\Car.cs",
-              "ToolTip": "D:\\SchoolWork\\App Dev\\MatthewBrightP1\\car-lot-project\\CarLotApp\\CarLotApp\\Car.cs",
-              "RelativeToolTip": "CarLotApp\\Car.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCMAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-11T22:39:31.348Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CarLotApp",
-              "DocumentMoniker": "D:\\SchoolWork\\App Dev\\MatthewBrightP1\\car-lot-project\\CarLotApp\\CarLotApp\\CarLotApp.csproj",
-              "RelativeDocumentMoniker": "CarLotApp\\CarLotApp.csproj",
-              "ToolTip": "D:\\SchoolWork\\App Dev\\MatthewBrightP1\\car-lot-project\\CarLotApp\\CarLotApp\\CarLotApp.csproj",
-              "RelativeToolTip": "CarLotApp\\CarLotApp.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-10-11T22:50:06.676Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Shopper.cs",
-              "DocumentMoniker": "D:\\SchoolWork\\App Dev\\MatthewBrightP1\\car-lot-project\\CarLotApp\\CarLotApp\\Shopper.cs",
-              "RelativeDocumentMoniker": "CarLotApp\\Shopper.cs",
-              "ToolTip": "D:\\SchoolWork\\App Dev\\MatthewBrightP1\\car-lot-project\\CarLotApp\\CarLotApp\\Shopper.cs",
-              "RelativeToolTip": "CarLotApp\\Shopper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "AddCarForm.Designer.cs",
+              "DocumentMoniker": "D:\\SchoolWork\\App Dev\\MatthewBrightP1\\car-lot-project\\CarLotApp\\CarLotApp\\AddCarForm.Designer.cs",
+              "RelativeDocumentMoniker": "CarLotApp\\AddCarForm.Designer.cs",
+              "ToolTip": "D:\\SchoolWork\\App Dev\\MatthewBrightP1\\car-lot-project\\CarLotApp\\CarLotApp\\AddCarForm.Designer.cs",
+              "RelativeToolTip": "CarLotApp\\AddCarForm.Designer.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAwwJAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-11T22:39:50.901Z",
+              "WhenOpened": "2026-10-12T01:41:18.52Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "CarLot.cs",
               "DocumentMoniker": "D:\\SchoolWork\\App Dev\\MatthewBrightP1\\car-lot-project\\CarLotApp\\CarLotApp\\CarLot.cs",
               "RelativeDocumentMoniker": "CarLotApp\\CarLot.cs",
               "ToolTip": "D:\\SchoolWork\\App Dev\\MatthewBrightP1\\car-lot-project\\CarLotApp\\CarLotApp\\CarLot.cs",
               "RelativeToolTip": "CarLotApp\\CarLot.cs",
-              "ViewState": "AgIAAIYAAAAAAAAAAAAswKUAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-11T22:39:43.95Z",
+              "WhenOpened": "2026-10-12T01:28:13.381Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Driver.cs",
-              "DocumentMoniker": "D:\\SchoolWork\\App Dev\\MatthewBrightP1\\car-lot-project\\CarLotApp\\CarLotApp\\Driver.cs",
-              "RelativeDocumentMoniker": "CarLotApp\\Driver.cs",
-              "ToolTip": "D:\\SchoolWork\\App Dev\\MatthewBrightP1\\car-lot-project\\CarLotApp\\CarLotApp\\Driver.cs",
-              "RelativeToolTip": "CarLotApp\\Driver.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "AddCarForm.cs [Design]",
+              "DocumentMoniker": "D:\\SchoolWork\\App Dev\\MatthewBrightP1\\car-lot-project\\CarLotApp\\CarLotApp\\AddCarForm.cs",
+              "RelativeDocumentMoniker": "CarLotApp\\AddCarForm.cs",
+              "ToolTip": "D:\\SchoolWork\\App Dev\\MatthewBrightP1\\car-lot-project\\CarLotApp\\CarLotApp\\AddCarForm.cs [Design]",
+              "RelativeToolTip": "CarLotApp\\AddCarForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-11T19:35:18.382Z",
+              "WhenOpened": "2026-10-12T01:16:15.61Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddCarForm.cs",
+              "DocumentMoniker": "D:\\SchoolWork\\App Dev\\MatthewBrightP1\\car-lot-project\\CarLotApp\\CarLotApp\\AddCarForm.cs",
+              "RelativeDocumentMoniker": "CarLotApp\\AddCarForm.cs",
+              "ToolTip": "D:\\SchoolWork\\App Dev\\MatthewBrightP1\\car-lot-project\\CarLotApp\\CarLotApp\\AddCarForm.cs",
+              "RelativeToolTip": "CarLotApp\\AddCarForm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T01:10:40.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarLotForm.cs [Design]",
+              "DocumentMoniker": "D:\\SchoolWork\\App Dev\\MatthewBrightP1\\car-lot-project\\CarLotApp\\CarLotApp\\CarLotForm.cs",
+              "RelativeDocumentMoniker": "CarLotApp\\CarLotForm.cs",
+              "ToolTip": "D:\\SchoolWork\\App Dev\\MatthewBrightP1\\car-lot-project\\CarLotApp\\CarLotApp\\CarLotForm.cs [Design]",
+              "RelativeToolTip": "CarLotApp\\CarLotForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T00:23:15.383Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NewShopper.cs",
+              "DocumentMoniker": "D:\\SchoolWork\\App Dev\\MatthewBrightP1\\car-lot-project\\CarLotApp\\CarLotApp\\NewShopper.cs",
+              "RelativeDocumentMoniker": "CarLotApp\\NewShopper.cs",
+              "ToolTip": "D:\\SchoolWork\\App Dev\\MatthewBrightP1\\car-lot-project\\CarLotApp\\CarLotApp\\NewShopper.cs",
+              "RelativeToolTip": "CarLotApp\\NewShopper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T00:45:27.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarLotForm.cs",
+              "DocumentMoniker": "D:\\SchoolWork\\App Dev\\MatthewBrightP1\\car-lot-project\\CarLotApp\\CarLotApp\\CarLotForm.cs",
+              "RelativeDocumentMoniker": "CarLotApp\\CarLotForm.cs",
+              "ToolTip": "D:\\SchoolWork\\App Dev\\MatthewBrightP1\\car-lot-project\\CarLotApp\\CarLotApp\\CarLotForm.cs",
+              "RelativeToolTip": "CarLotApp\\CarLotForm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T00:16:14.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NewShopper.cs [Design]",
+              "DocumentMoniker": "D:\\SchoolWork\\App Dev\\MatthewBrightP1\\car-lot-project\\CarLotApp\\CarLotApp\\NewShopper.cs",
+              "RelativeDocumentMoniker": "CarLotApp\\NewShopper.cs",
+              "ToolTip": "D:\\SchoolWork\\App Dev\\MatthewBrightP1\\car-lot-project\\CarLotApp\\CarLotApp\\NewShopper.cs [Design]",
+              "RelativeToolTip": "CarLotApp\\NewShopper.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T00:48:47.718Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\SchoolWork\\App Dev\\MatthewBrightP1\\car-lot-project\\CarLotApp\\CarLotApp\\Car.cs",
+              "RelativeDocumentMoniker": "CarLotApp\\Car.cs",
+              "ToolTip": "D:\\SchoolWork\\App Dev\\MatthewBrightP1\\car-lot-project\\CarLotApp\\CarLotApp\\Car.cs",
+              "RelativeToolTip": "CarLotApp\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T01:32:23.568Z",
               "EditorCaption": ""
             }
           ]

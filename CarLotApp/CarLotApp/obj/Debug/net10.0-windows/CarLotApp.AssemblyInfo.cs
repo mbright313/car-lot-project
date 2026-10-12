@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CarLotApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce61dd2041650026a293b6e22bf2a72fb1f48800")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29f150d4f1fd34c388ccfbbe93fde99a08bf1282")]
 [assembly: System.Reflection.AssemblyProductAttribute("CarLotApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CarLotApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

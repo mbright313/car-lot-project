@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Text;
 
 namespace CarLotApp
@@ -7,7 +8,7 @@ namespace CarLotApp
     /// <summary>
     /// Represents a single car object within a CarLot
     /// </summary>
-    internal class Car
+    public class Car
     {
         /// <summary>
         /// make of the car object
@@ -39,6 +40,17 @@ namespace CarLotApp
             model = carmodel;
             mpg = carmpg;
             price = carprice;
+        }
+
+        /// <summary>
+        /// puts all the information about a car into a string
+        /// </summary>
+        /// <returns></returns>
+        public string toString()
+        {
+            string carInfo = make + " " + model + " | " + mpg + " | $" + price;
+            Debug.WriteLine(carInfo);
+            return carInfo;
         }
     }
 }

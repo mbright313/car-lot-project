@@ -13,7 +13,8 @@ namespace CarLotApp
         /// <param name="args"></param>
         public static void Main(string[] args)
         {
-
+            CarLotForm form = new CarLotForm();
+            Application.Run(form);
         }
     }
 }
