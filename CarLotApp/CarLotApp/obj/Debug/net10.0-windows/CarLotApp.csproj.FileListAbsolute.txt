@@ -18,3 +18,23 @@ D:\SchoolWork\App Dev\MatthewBrightP1\car-lot-project\CarLotApp\CarLotApp\obj\De
 D:\SchoolWork\App Dev\MatthewBrightP1\car-lot-project\CarLotApp\CarLotApp\obj\Debug\net10.0-windows\CarLotApp.csproj.GenerateResource.cache
 D:\SchoolWork\App Dev\MatthewBrightP1\car-lot-project\CarLotApp\CarLotApp\obj\Debug\net10.0-windows\CarLotApp.NewShopper.resources
 D:\SchoolWork\App Dev\MatthewBrightP1\car-lot-project\CarLotApp\CarLotApp\obj\Debug\net10.0-windows\CarLotApp.AddCarForm.resources
+D:\SchoolWork\car-lot-project\CarLotApp\CarLotApp\bin\Debug\net10.0-windows\CarLotApp.exe
+D:\SchoolWork\car-lot-project\CarLotApp\CarLotApp\bin\Debug\net10.0-windows\CarLotApp.deps.json
+D:\SchoolWork\car-lot-project\CarLotApp\CarLotApp\bin\Debug\net10.0-windows\CarLotApp.runtimeconfig.json
+D:\SchoolWork\car-lot-project\CarLotApp\CarLotApp\bin\Debug\net10.0-windows\CarLotApp.dll
+D:\SchoolWork\car-lot-project\CarLotApp\CarLotApp\bin\Debug\net10.0-windows\CarLotApp.pdb
+D:\SchoolWork\car-lot-project\CarLotApp\CarLotApp\obj\Debug\net10.0-windows\CarLotApp.AddCarForm.resources
+D:\SchoolWork\car-lot-project\CarLotApp\CarLotApp\obj\Debug\net10.0-windows\CarLotApp.CarLotForm.resources
+D:\SchoolWork\car-lot-project\CarLotApp\CarLotApp\obj\Debug\net10.0-windows\CarLotApp.NewShopper.resources
+D:\SchoolWork\car-lot-project\CarLotApp\CarLotApp\obj\Debug\net10.0-windows\CarLotApp.csproj.GenerateResource.cache
+D:\SchoolWork\car-lot-project\CarLotApp\CarLotApp\obj\Debug\net10.0-windows\CarLotApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\SchoolWork\car-lot-project\CarLotApp\CarLotApp\obj\Debug\net10.0-windows\CarLotApp.AssemblyInfoInputs.cache
+D:\SchoolWork\car-lot-project\CarLotApp\CarLotApp\obj\Debug\net10.0-windows\CarLotApp.AssemblyInfo.cs
+D:\SchoolWork\car-lot-project\CarLotApp\CarLotApp\obj\Debug\net10.0-windows\CarLotApp.csproj.CoreCompileInputs.cache
+D:\SchoolWork\car-lot-project\CarLotApp\CarLotApp\obj\Debug\net10.0-windows\CarLotApp.sourcelink.json
+D:\SchoolWork\car-lot-project\CarLotApp\CarLotApp\obj\Debug\net10.0-windows\CarLotApp.dll
+D:\SchoolWork\car-lot-project\CarLotApp\CarLotApp\obj\Debug\net10.0-windows\refint\CarLotApp.dll
+D:\SchoolWork\car-lot-project\CarLotApp\CarLotApp\obj\Debug\net10.0-windows\CarLotApp.pdb
+D:\SchoolWork\car-lot-project\CarLotApp\CarLotApp\obj\Debug\net10.0-windows\CarLotApp.genruntimeconfig.cache
+D:\SchoolWork\car-lot-project\CarLotApp\CarLotApp\obj\Debug\net10.0-windows\ref\CarLotApp.dll
+D:\SchoolWork\car-lot-project\CarLotApp\CarLotApp\obj\Debug\net10.0-windows\CarLotApp.csproj.Up2Date

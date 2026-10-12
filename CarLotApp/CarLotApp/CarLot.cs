@@ -69,10 +69,13 @@ namespace CarLotApp
             foreach (Car car in inventory)
             {
                 string carmake = car.make.ToLower();
-                Debug.WriteLine(carmake + " " + car.make.ToLower());
+                Debug.WriteLine(car.make + " " + findMake);
+                Debug.WriteLine(carmake.Equals(findMake.ToLower()));
                 string carmodel = car.model.ToLower();
-                Debug.WriteLine(carmodel + " " + car.model.ToLower());
-                if (carmake.Equals(findMake.ToLower()) && carmodel.Equals(findModel.ToLower()))
+                Debug.WriteLine(car.model + " " + findModel);
+                Debug.WriteLine(carmodel.Equals(findModel.ToLower()));
+                //carmake.Equals(findMake.ToLower()) && carmodel.Equals(findModel.ToLower())
+                if (car.make.Equals(findMake) && car.model.Equals(findModel))
                 {
                     return car;
                 }
@@ -92,6 +95,7 @@ namespace CarLotApp
             if(car != null)
             {
                 inventory.Remove(car);
+                Debug.WriteLine("Removed " + car.toString());
             }
             return car;
         }

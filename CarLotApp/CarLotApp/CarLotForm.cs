@@ -101,7 +101,14 @@ namespace CarLotApp
                 if (shop.CanPurchase(carPrice))
                 {
                     shop.PurchaseCar(lot.Inventory[listBox1.SelectedIndex], carPrice);
-                    lot.PurchaseCar(carMakeModel[0], carMakeModel[1]);
+                    if (carMakeModel.Length > 2)
+                    {
+                        lot.PurchaseCar(carMakeModel[0], carMakeModel[1] + " " + carMakeModel[2]);
+                    }
+                    else
+                    {
+                        lot.PurchaseCar(carMakeModel[0], carMakeModel[1]);
+                    }
                     listBox1.Items.RemoveAt(listBox1.SelectedIndex);
                     listBox1.Refresh();
                     refreshForm();
