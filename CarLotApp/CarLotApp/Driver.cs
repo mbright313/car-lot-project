@@ -13,6 +13,7 @@ namespace CarLotApp
         /// <param name="args"></param>
         public static void Main(string[] args)
         {
+            CarLot lot = new CarLot();
             Car honda = new Car("honda", "accord", 24.0, 13000);
         }
     }

@@ -4,6 +4,9 @@ using System.Text;
 
 namespace CarLotApp
 {
+    /// <summary>
+    /// Represents a single car object within a CarLot
+    /// </summary>
     internal class Car
     {
         /// <summary>
@@ -23,6 +26,13 @@ namespace CarLotApp
         /// </summary>
         public decimal price { get; set; }
 
+        /// <summary>
+        /// Creates a car object with a make, model, miles per gallon, and price property.
+        /// </summary>
+        /// <param name="carmake"></param>
+        /// <param name="carmodel"></param>
+        /// <param name="carmpg"></param>
+        /// <param name="carprice"></param>
         public Car(string carmake, string carmodel, double carmpg, decimal carprice)
         {
             make = carmake;
